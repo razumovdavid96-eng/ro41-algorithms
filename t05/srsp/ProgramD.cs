@@ -1,5 +1,3 @@
-using System;
-
 namespace RecursionTask
 {
     public static class Rec
